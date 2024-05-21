@@ -6,6 +6,6 @@ Udemig eğitim ve tanıtım videosudur.
 
 Html ve Css ile Responsive Projedir.
 
-<h2>Ekran Gifi</h2>
+<h2>Ekran Görüntüsü</h2>
 
 ![](Udemigeducation.gif)
